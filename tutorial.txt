@@ -3,3 +3,7 @@ GIT
 git init 
 git status
 git add .
+git config --global user.email "luis.gonzales35@unmsm.edu.pe"
+git config --global user.name "Luis Gonzales"
+git commit -m "mi primer commit"
+git log
